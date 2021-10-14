@@ -32,7 +32,7 @@
 - CSS
 ```
 
-## Setup ⏳
+## Setup-⏳
 
 > Follow these steps to setup this web application locally :
 
